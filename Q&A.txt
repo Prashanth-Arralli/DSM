@@ -1,0 +1,21 @@
+
+
+Home screen.
+
+- offer banner
+- manintance
+- service status
+    - will be updated vua API (for now will be updated using dumped data)
+-
+Accept offer
+  - send mail to admin
+---------------------------------------
+Service Advisor
+  - Terms and condition should be added.(signature should be got from customer)
+  -
+
+Service Scheduler
+  -
+
+
+

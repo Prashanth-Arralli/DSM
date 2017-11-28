@@ -1,0 +1,104 @@
+Admin panel:
+
+- Login
+- Settings
+- Password Reset
+- Forgot Password
+- Users CRUD
+- Service CRUD
+- Profile
+- Email Templates CRUD
+- Mobile Templates CRUD
+
+
+Users Panel:
+
+- Login
+- Registration
+- Login using Google/Facebook
+- Register using Google/Facebook
+- User Profile
+- Forgot Password
+- Reset Password
+- Vehicles List
+- Vechicles Details
+- Service Status
+- Buy Back Value
+- Service Schedule
+- Maintance Schedule
+- Offer Banner
+- Upcoming maintance
+- Schedule Recall repair
+- Schedule a Service
+- Ongoing Service Status
+- Service History
+- Service Details
+- Service Invoice
+- Accept Offer
+- Other maintance
+- Service Offer
+- Slot Booking
+
+Marketing Manager
+
+- Performance of current month
+- Forcast of future month
+- Recommended Service
+- Create an Offer
+- Scheduled Offers
+- Live Offeres
+- Update Offers
+- Remove Offers
+
+Service Adviser:
+
+- Service List
+- User Dashboard
+  - Add a Service to the selected Services
+  - Remove a Service from the selected Services
+  - Donut chart for loyalty, Value shopper, spend, car Value
+  - Customer Details
+  - Recommended Service List
+  - Service History
+- Details of Recommended Service
+- Service History Details
+- Complete Invoice
+- Appointment creation
+
+Service Scheduler:
+
+- Service Schedule List
+- Schedule Appointment for User
+- Appointment List of Users
+- Remove Appointment from List
+- Search integration in Appointment List
+- Schedule avilability for Service Adviser by daily, weekly, monthly
+- Show avilability for Service Adviser
+
+Used Car Manager:
+
+- Vehicles List
+- Search Vehicles List
+- Vehicles Details
+    - Customer Details
+    - Vehicles Details
+    - Donut Chart for car demand, carfax, expected inventory days, Vehicle inspection, car Value
+    - Cost Comparison
+      - Average cost sold at auctions
+      - Sell price for smaller Vehicles
+    - Market Trade-In Value
+      - KBB Number
+      - NADA Number
+    - Submit Offer to the customer.
+
+
+
+
+
+
+
+
+
+
+
+

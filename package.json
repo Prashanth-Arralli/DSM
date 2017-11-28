@@ -1,0 +1,40 @@
+{
+  "name": "dsm-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "config": "^1.28.1",
+    "cookie-parser": "^1.4.3",
+    "csvreader": "^1.0.2",
+    "debug": "^2.6.8",
+    "express": "^4.15.4",
+    "express-hbs": "^1.0.4",
+    "express-validator": "^3.2.1",
+    "fb": "^2.0.0",
+    "google-auth-library": "^0.10.0",
+    "hbs": "^4.0.1",
+    "helmet": "^3.8.1",
+    "i18n": "^0.8.3",
+    "js2xmlparser": "^3.0.0",
+    "mandrill-api": "^1.0.45",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.6",
+    "morgan": "^1.8.2",
+    "multer": "^1.3.0",
+    "node-fetch": "^1.7.2",
+    "node-mandrill": "^1.0.1",
+    "nodemailer": "^4.0.1",
+    "randomstring": "^1.1.5",
+    "serve-favicon": "^2.4.3",
+    "soap": "^0.21.0",
+    "twilio": "^3.6.7",
+    "x-xss-protection": "^1.0.0",
+    "xlsx": "^0.11.3",
+    "xml2json": "^0.11.0"
+  }
+}
