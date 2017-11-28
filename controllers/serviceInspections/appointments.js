@@ -116,7 +116,6 @@ const searchAppointment = async(req, res, next) => {
 }
 //upating single appointment
 const updateAppointment = async(req, res, next) => {
-  console.log("Aashish");
   try {
     let _id = req.params.id;
     let status = req.body.status
